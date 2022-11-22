@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @captainjack-m
-- 👀 I’m interested in 
 - 🌱 I’m currently learning C , C++ , Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me minhtetnai.edu@gmail.com
 
 <!---
