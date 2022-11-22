@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Min Htet Naing</h1>
-<h3 align="center">just a student, who study programming from Myanmar</h3>
+<h3 align="center"> a student, who study programming from Myanmar</h3>
 
 - 🔭 I’m currently studying on **National Cyber City , Myanmar**
 
